@@ -1,4 +1,4 @@
 # pipeline-scripts
-[![Build Status](http://ec2-54-241-165-36.us-west-1.compute.amazonaws.com/buildStatus/icon?job=fibonacci)](http://ec2-54-241-165-36.us-west-1.compute.amazonaws.com/job/fibonacci/)
+[![Build Status](http://13.51.3.11:8080/buildStatus/icon?job=fibonacci-github-webhook)](http://13.51.3.11:8080/me/my-views/view/all/job/fibonacci-github-webhook/)
 Run scripts from a pipeline.
 It worked!
